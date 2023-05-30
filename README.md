@@ -6,3 +6,5 @@ Abstract
 Around this time I had a colleague who was a Cyber Security champion.
 
 🌟 Learn how you can help someone make a career jump and land softly. 😺 And it doesn’t take a lot of effort.
+
+https://www.bsidesmelbourne.com/2022-speakers.html
