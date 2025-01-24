@@ -1,4 +1,4 @@
-Talks:
+🎙️ Talks I have given at local events and conferences:
 
 * BSides Melbourne 2022
 * ComfyCon AU Winter 2024: McDonalds Happy Meal Doom
